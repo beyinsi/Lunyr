@@ -1,4 +1,4 @@
 # Lunyr
-A decentralized encyclopedia where users earn rewards for contributing and peer reviewing.
+A decentralized world knowledge base where users earn rewards for contributing and peer reviewing.
 
 
